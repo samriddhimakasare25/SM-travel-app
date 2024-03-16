@@ -74,7 +74,7 @@ import {
               setTr_lng(details?.geometry?.viewport?.northeast?.lng);
             }}
             query={{
-              key: "AIzaSyCcoBPl0pteWFzrJvge2fzyvt2Pf4iYcXc",
+              key: API KEY,
               language: "en",
             }}
           />
